@@ -56,9 +56,6 @@ Este projeto visa facilitar a **análise** e **manipulação** de contratos de l
     - Modifique o arquivo `contratos.json` para adicionar seus próprios contratos.
     - Ajuste os parâmetros no script para gerar relatórios personalizados.
 
-## 🖇️ Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests, ou sugerir novas funcionalidades.
 
 ---
 
