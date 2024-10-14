@@ -8,7 +8,7 @@ Este projeto visa facilitar a **análise** e **manipulação** de contratos de l
 ## 🎯 Objetivos
 
 - **Otimizar a consulta de contratos** por **valores**, **vigências** e **modalidades**.
-- **Lidar com grandes volumes de dados JSON** sem perda de performance, utilizando **árvores binárias balanceadas**.
+- **Lidar com grandes volumes de dados JSON** sem perda de performance, utilizando **árvores binárias**.
 - **Implementar auditoria automática** para identificar inconsistências em datas e listar contratos com **aditivos** de acréscimo e prorrogações.
 
 ## 🚀 Funcionalidades
